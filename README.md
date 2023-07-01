@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Demachine SA**
 
-- 🌱 I’m currently learning **Frontend development.**
+- 🌱 I’m currently learning **Frontend development and UX design.**
 
 - 📫 How to reach me **justinvelasquezaguirre@gmail.com**
 
