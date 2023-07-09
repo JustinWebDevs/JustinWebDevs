@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A passionate web developer from Colombia</h3>
+<h3 align="center">A passionate web developer from Colombia.</h3>
 
 - 🔭 I’m currently working on **Demachine SA.**
 
