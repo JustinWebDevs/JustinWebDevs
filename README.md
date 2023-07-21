@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend development and UX design.**
 
-- 📫 How to reach me **justinvelasquezaguirre@gmail.com**
+- 📫 How to reach me **justinvelasquezaguirre@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
