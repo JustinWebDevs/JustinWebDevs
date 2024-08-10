@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭  I’m currently working on Demachine SA.<br>- 📚 I’m currently learning Frontend development and UX design.<br>- 📫 How to reach me <b>justinvelasquezaguirre@gmail.com</b>.</p>
+<p align="left"><br>- 🔭  I’m currently working on Demachine SA.<br>- 📚 I’m currently learning Frontend development and UX design.<br>- 📫 How to reach me <b>justinvelasquezaguirre@gmail.com</b>.</p>
 
 ###
 
